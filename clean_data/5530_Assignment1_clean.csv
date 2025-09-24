@@ -1,0 +1,11 @@
+age_years,grip_strength_kg,frailty,height_m,weight_kg,bmi,frailty_binary,age_group_<30,age_group_30-45,age_group_45-60,age_group_>60
+30,30.0,N ,1.67,50.8,18.22,0,False,True,False,False
+19,31.0,N ,1.82,61.69,18.62,0,True,False,False,False
+45,29.0,N ,1.76,69.4,22.4,0,False,False,True,False
+22,28.0,Y ,1.73,64.41,21.52,1,True,False,False,False
+29,24.0,Y ,1.72,65.32,22.08,1,True,False,False,False
+50,26.0,N ,1.74,55.79,18.43,0,False,False,True,False
+51,22.0,Y ,1.77,63.96,20.42,1,False,False,True,False
+23,20.0,Y ,1.78,61.69,19.47,1,True,False,False,False
+17,19.0,N ,1.72,50.8,17.17,0,True,False,False,False
+39,31.0,N ,1.7,54.43,18.83,0,False,True,False,False
